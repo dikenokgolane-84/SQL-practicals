@@ -8,7 +8,6 @@ This set of exercises covers various SQL topics to help you practice and improve
 - JOINS
 - Advanced SQL
 - Soccer SQL Questions
-- Retail Sales using Google BigQuery
 
 ## Purpose
 These exercises are designed to help you develop your SQL skills and apply them to real-world scenarios.
